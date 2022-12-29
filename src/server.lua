@@ -8,8 +8,8 @@ Tunnel.bindInterface(GetCurrentResourceName(), src)
 vCLIENT = Tunnel.getInterface(GetCurrentResourceName())
 
 local times = {
-	start = "29/12 14:25",
-	finish = "29/12 14:30",
+	start = "01/01 00:00",
+	finish = "01/01 00:10",
 }
 
 
